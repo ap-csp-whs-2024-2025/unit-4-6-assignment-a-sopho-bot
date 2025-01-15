@@ -11,6 +11,16 @@
 #include <string>    // std::string, std::getline
 #include <vector>    // std::vector
 
+void compare (int x, int y)
+{
+   if (x>y)
+    std::cout << ""
+
+}
+
+
+
+
 int main()
 {
     // Complete your homework here
